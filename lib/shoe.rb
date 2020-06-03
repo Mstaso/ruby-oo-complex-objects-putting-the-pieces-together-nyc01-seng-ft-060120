@@ -14,4 +14,3 @@ class Shoe
   
 end  
 
-shoe = Shoe.condition
