@@ -9,7 +9,8 @@ class Shoe
   end  
   
   def cobble (condition)
-    self.condition = new
+    puts ""
+    self.condition = "new"
   end  
   
 end  
